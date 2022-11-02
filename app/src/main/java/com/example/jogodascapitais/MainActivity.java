@@ -1,5 +1,11 @@
 package com.example.jogodascapitais;
 
+/* ALUNOS: Janaina Keroline Ercole GRR:20204451
+            Nicolle Costa  GRR:20205286
+            Rafael Tombolato GRR: 20200204
+*/
+
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
